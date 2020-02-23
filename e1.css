@@ -1,0 +1,30 @@
+div {
+    margin-left: 15%;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+p {
+    font-style: italic;
+}
+
+p.under {
+    text-decoration-line: underline;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+}
+
+table {
+    border-spacing: 5px;
+    border-collapse: collapse;
+}
